@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>InternetBankingProject</name>
+=======
+	<name>BankApplication</name>
+>>>>>>> 3028e140811abe7f60087ac8edf0a2cebeb46261
 	<comment></comment>
 	<projects>
 	</projects>
@@ -28,6 +32,7 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+<<<<<<< HEAD
 	<filteredResources>
 		<filter>
 			<id>1735203381003</id>
@@ -39,4 +44,6 @@
 			</matcher>
 		</filter>
 	</filteredResources>
+=======
+>>>>>>> 3028e140811abe7f60087ac8edf0a2cebeb46261
 </projectDescription>
